@@ -1,0 +1,5 @@
+.env
+package.json
+package-lock.json
+node_modules
+.client_secret_688148805225-tg6rlsmsdn8hhbv25s97j74m01d5eak7.apps.googleusercontent.com.json
